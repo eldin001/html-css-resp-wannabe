@@ -150,6 +150,16 @@ img {
 
     }
 
+    .why-us .col-left {
+        width: 100%;
+        padding: 2rem 0;
+    }
+
+    .why-us .col-left {
+        width: 100%;
+        padding: 2rem 0;
+    }
+
     .row {
         flex-direction: column;
     }
